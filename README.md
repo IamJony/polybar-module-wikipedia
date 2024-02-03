@@ -6,6 +6,10 @@ This module displays Wikipedia's featured article of the day on your Polybar. Es
 2. curl
 3. nerd fonts
 
+## Example
+![wikipediash](https://raw.githubusercontent.com/IamJony/semi-nord-theme-bluefish/main/Screenshot_2024-02-03-10-20-37_1366x768.png)
+
+
 ## Module
 
 ```
